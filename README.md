@@ -39,7 +39,7 @@ erDiagram
 ACCOUNT  {  }
 CONTACT  {  }
 KEY  {  }
-ACTIVITES { }
+ACTIVITIES { }
 ACCOUNT  ||--o{  KEY  :HAS
 CONTACT  ||--o{  KEY  :HAS
 KEY  ||--o{  ACTIVITIES  :HAS
