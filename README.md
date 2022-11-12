@@ -7,6 +7,9 @@ A solution for Microsoft Dataverse to administer login details of your organizat
  - Let you generate new passwords, based on the rules of your organization
  - Reminds you to renew the secret when a valid until or reminder date is set
 
+## Requirements
+- The "Creator Kit Core Solution" of the [Microsoft Power CAT Creator Kit](https://github.com/microsoft/powercat-creator-kit)
+
 ## Security
  - As the data is stored in Dataverse, it is as safe as Dataverse
  - Security inside Dataverse can be defined with the Dataverse security model
