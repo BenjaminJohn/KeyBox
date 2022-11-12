@@ -39,5 +39,5 @@ KEY  {  }
 ACTIVITES { }
 ACCOUNT  ||--o{  KEY  :HAS
 CONTACT  ||--o{  KEY  :HAS
-KEY  ||--o{  ACTIVITES  :HAS
+KEY  ||--o{  ACTIVITIES  :HAS
 ```
