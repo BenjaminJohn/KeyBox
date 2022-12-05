@@ -1,6 +1,6 @@
 
 # Key Box
-A solution for Microsoft Dataverse to administer login details of your organization.
+A solution for Microsoft Dataverse to administer your login details.
 
 ## Features
  - Let you store keys directly inside Dataverse, directly beside the customers they belong to
