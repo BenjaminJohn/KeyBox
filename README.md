@@ -3,8 +3,8 @@
 A solution for Microsoft Dataverse to administer your login details.
 
 ## Features
- - Let you store keys directly inside Dataverse, directly beside the customers they belong to
- - Let you generate new passwords, based on the rules of your organization
+ - Lets you store keys directly inside Dataverse, directly beside the customers they belong to
+ - Lets you generate new passwords, based on the rules of your organization
  - Reminds you to renew the secret when a valid until or reminder date is set
 
 ## Requirements
