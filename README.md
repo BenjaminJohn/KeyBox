@@ -8,7 +8,7 @@ A Dataverse solution to govern credentials.
  - Reminds you to renew the secret when a valid until or reminder date is set
 
 ## Requirements
-- none, exepts a Dataverse
+- None, excepts of a Dataverse
 
 ## Security
  - As the data is stored in Dataverse, it is as safe as Dataverse itself
