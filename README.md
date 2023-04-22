@@ -1,6 +1,6 @@
 
-# Key Box
-A solution for Microsoft Dataverse to administer your login details.
+# KeyBox
+A Dataverse solution to govern credentials.
 
 ## Features
  - Lets you store keys directly inside Dataverse, directly beside the customers they belong to
@@ -8,12 +8,12 @@ A solution for Microsoft Dataverse to administer your login details.
  - Reminds you to renew the secret when a valid until or reminder date is set
 
 ## Requirements
-- The "Creator Kit Core Solution" of the [Microsoft Power CAT Creator Kit](https://github.com/microsoft/powercat-creator-kit)
+- none, exepts a Dataverse
 
 ## Security
- - As the data is stored in Dataverse, it is as safe as Dataverse
- - Security inside Dataverse can be defined with the Dataverse security model
- - All automations are build without compiled code, so that you can review it 
+ - As the data is stored in Dataverse, it is as safe as Dataverse itself
+ - The security inside Dataverse can be defined with the Dataverse security model to control the access to records
+ - All automations are build without any compiled code, so that you can review and trust it 
  
 ## Datamodel
 ### Table: bj_Key
