@@ -1,6 +1,6 @@
 
 # KeyBox
-A Dataverse solution to govern credentials.
+A Microsoft Dataverse solution to govern credentials.
 
 ## Features
  - Lets you store keys directly inside Dataverse, directly beside the customers they belong to
